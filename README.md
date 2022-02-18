@@ -72,49 +72,33 @@ If you're stuck, check the hints at the botton of this markdown.
 **Hints:**
 
 <details><summary>Hint 1</summary>
-<p>
 Google `Array.prototype.push()`
-</p>
 </details>
 
 <details><summary>Hint 2</summary>
-<p>
 Did you do task 1 successfully ? You should be able to do this one without unshifting your focus ;)
-</p>
 </details>
 
 <details><summary>Hint 3</summary>
-<p>
 Be creative with this one, you're a 1337 student.
-</p>
 </details>
 
 <details><summary>Hint 4</summary>
-<p>
 Every heard of filtering ? :D
-</p>
 </details>
 
 <details><summary>Hint 5</summary>
-<p>
 *some* students might be younger that 20 years old :) Nothing wrong with it though.
-</p>
 </details>
 
 <details><summary>Hint 6</summary>
-<p>
 Oussama is an object.. e7m.. I mean presented as an object ! Modify his properties :D
-</p>
 </details>
 
 <details><summary>Hint 7</summary>
-<p>
 Remember what we said about asynchronous functions ? Google [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-</p>
 </details>
 
 <details><summary>Hint 7, extra</summary>
-<p>
 Got to the part where you are fetching the data ? It return a promise, right ? Look into [`then`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
-</p>
 </details>
