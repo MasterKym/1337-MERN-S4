@@ -26,7 +26,7 @@ function insertRow(row)
 let students = [
     {name:"Mohamed Yassir", username:"mkhalid", age:24, profession: "Programmer", sessions:[1,1]},
     {name:"El Houcine", username:"awixor", age:24, profession: "Programmer"},
-    {name:"Oussama", username:"Oussama", age:20, profession: "Programmer"},
+    {name:"Oussama", username:"Oussama", age:19, profession: "Programmer"},
 ]
 students = modifyStudents(students);
 students.forEach(student => {
