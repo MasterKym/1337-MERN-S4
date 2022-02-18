@@ -56,13 +56,14 @@ In this exercise you're asked to manipulate that `students` array to get differe
 There is a function named `modifyStudents` that is defined in `script.js`. That functions gets called before `createRow` and `insertRow`. You can edit **only** the `modifyStudents` function.
 Your job is to manipulate the `students` array to get the desired result.
 List of results:
+If you're stuck, check the hints at the botton of this markdown.
 
- - Add yourself to the bottom of the list of students. >! Hint text
- - Add yourself to the top of the list of students. >! Hint text
- - Remove everyone from the list of students but yourself. >! Hint text
- - Remove all students who are younger than 20 years old. >! Hint text
- - Display an [alert](https://www.w3schools.com/jsref/met_win_alert.asp) if there is a student younger than 20 years old in the list. >! Hint text
- - Modify the age of Oussama. >! Hint text
+ - Add yourself to the bottom of the list of students.
+ - Add yourself to the top of the list of students.
+ - Remove everyone from the list of students but yourself.
+ - Remove all students who are younger than 20 years old.
+ - Display an [alert](https://www.w3schools.com/jsref/met_win_alert.asp) if there is a student younger than 20 years old in the list.
+ - Modify the age of Oussama.
  
  Advanced:
  
@@ -70,14 +71,50 @@ List of results:
 
 **Hints:**
 
-<details><summary>CLICK ME</summary>
+<details><summary>Hint 1</summary>
 <p>
+Google `Array.prototype.push()`
+</p>
+</details>
 
-#### We can hide anything, even code!
+<details><summary>Hint 2</summary>
+<p>
+Did you do task 1 successfully ? You should be able to do this one without unshifting your focus ;)
+</p>
+</details>
 
-    ```ruby
-      puts "Hello World"
-    ```
+<details><summary>Hint 3</summary>
+<p>
+Be creative with this one, you're a 1337 student.
+</p>
+</details>
 
+<details><summary>Hint 4</summary>
+<p>
+Every heard of filtering ? :D
+</p>
+</details>
+
+<details><summary>Hint 5</summary>
+<p>
+*some* students might be younger that 20 years old :) Nothing wrong with it though.
+</p>
+</details>
+
+<details><summary>Hint 6</summary>
+<p>
+Oussama is an object.. e7m.. I mean presented as an object ! Modify his properties :D
+</p>
+</details>
+
+<details><summary>Hint 7</summary>
+<p>
+Remember what we said about asynchronous functions ? Google [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+</p>
+</details>
+
+<details><summary>Hint 7, extra</summary>
+<p>
+Got to the part where you are fetching the data ? It return a promise, right ? Look into [`then`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then)
 </p>
 </details>
