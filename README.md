@@ -70,10 +70,14 @@ List of results:
 
 **Hints:**
 
-    <details>
-      <summary>Example</summary>
+<details><summary>CLICK ME</summary>
+<p>
 
-      ```
-      long console output here
-      ```
-    </details>
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
